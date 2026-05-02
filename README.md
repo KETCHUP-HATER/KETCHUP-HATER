@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![Untitled839_20260503001633.png](https://github.com/user-attachments/assets/6d257d75-01f2-473d-9cad-ef60c40e673b
+THIS IS ALL JOKES BTW
 <!--
 **KETCHUP-HATER/KETCHUP-HATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
