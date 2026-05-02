@@ -1,4 +1,4 @@
-<img width="2059" height="1288" alt="Image" src="https://github.com/user-attachments/assets/133f47fa-4e39-4686-bc9b-4d3a19659c45" />
+<img width="2059" height="1288" alt="Image" src="https://github.com/user-attachments/assets/65b8a4a0-4bcf-46a7-af49-8674ac95c212" />
 THIS IS ALL JOKES BTW
 <!--
 **KETCHUP-HATER/KETCHUP-HATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact
+- ⚡ Fun 
